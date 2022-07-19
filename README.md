@@ -4,4 +4,5 @@ Before I edited the code the website had some problems with following the links 
 
 
 The website can be found at https://saucymj.github.io/Horiseon-s-SEO/
-The  repository can be found at 
+
+The  repository can be found at https://github.com/saucymj/Horiseon-s-SEO
